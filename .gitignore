@@ -1,0 +1,11 @@
+# 个人记忆库实例（别把真实内容提交进来）
+memory-instance/
+*.local.md
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 渲染中间产物
+*.render.html
+__pycache__/
